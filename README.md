@@ -1,3 +1,5 @@
+### (I will be doing this a little bit differently, like it's done [here](https://github.com/ptv1p3r/ptm_api/tree/master/api), using the MVC principle)
+
 ## Assignment 2: Project - Restructuring our FareWheels App
 
 ### Instructions:
