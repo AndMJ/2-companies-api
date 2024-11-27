@@ -23,7 +23,7 @@ if(process.env.NODE_ENV === "development"){
 app.set("port", process.env.PORT)
 
 //import company routes
-require("./routes/routeCompany")(app)
+require("./api/routes/routeCompany")(app)
 
 app.listen(app.get("port"), () => {
     console.log(`Listening to port ${app.get("port")}..`)
